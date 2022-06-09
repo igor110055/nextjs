@@ -1,0 +1,53 @@
+.container {
+  max-width: 1300px;
+  margin-right: auto;
+  align-items: center;
+  text-align: center;
+  padding: 0 50px;
+  font-family: 'Lato', sans-serif;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  color: #0c0d0d;
+  width: 100%;
+  font-size: clamp(3.5rem, 6vw, 4.7em);
+  letter-spacing: 4px;
+  margin-top: 1rem;
+  text-align: center;
+  font-family: "Jost", sans-serif;
+}
+
+.navtitle {
+  font-family: "Jost", sans-serif;
+  font-size: 28px;
+  color: white;
+}
+
+.button {
+  width: 200px;
+  height: 50px;
+  border: none;
+  font-family: "Source Code Pro", monospace;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  background: #00fc9e;
+  background: -webkit-linear-gradient(to right, #00fc9e, #93F9B9);
+  background: linear-gradient(to right, #00fc9e, #93F9B9);
+  color: #0c0d0d;
+  border-radius: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  transition: 0.5s;
+}
+
+.button:hover {
+  transition: 0.5s;
+  font-size: 22px;
+}
