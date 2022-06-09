@@ -1,3 +1,3 @@
-##**How do i use this?**
+## **How do i use this?**
 
-~~[Check this](https://nextjs.org/ "NextJS")~~
+[Check this](https://nextjs.org/ "NextJS")
